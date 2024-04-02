@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Sengar</h1>
+<h1 align="center">👋 Hey there! I'm Ayush Sengar, a passionate data scientist with a knack for crafting end-to-end production-grade models. Currently, I'm deep-diving into the world of data science through my MSc in Computer Science with a specialization in Data Science at Leiden University.</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
